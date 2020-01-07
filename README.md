@@ -8,7 +8,7 @@
 
  Spaghetti monster usually happens mid-print or when the printing is nearly done. The printer still continues to print; thus wasting filament, electricity and time. At leFab 3D, they use hobbyist 3d printers with Octoprint installed. They have many failed prints that fail and continue to waste more resources after failing.
 
-<img src="./spaghetti.jpg" alt="spaghetti" style="zoom:33%;" />
+<img src="./img/spaghetti.jpg" alt="spaghetti" style="zoom:33%;" />
 
 
 
